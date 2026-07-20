@@ -21,6 +21,10 @@ The app follows **Clean Architecture** with the **MVVM** pattern.
 
 Gradle injects the key as `BuildConfig.NEWS_API_KEY`.
 
+## API
+
+This project uses the NewsAPI.org service to fetch news articles. You'll need to create a free API key to run the app.
+
 ## Demo
 
 https://drive.google.com/file/d/1Tug243Z0rjERfVolgi-ycgJiPUrv7ql2/view?usp=sharing
