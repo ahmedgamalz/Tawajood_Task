@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Primary app theme -->
-    <style name="Theme.TawajoodTask" parent="android:Theme.Material.Light.NoActionBar" />
 
-    <!-- System splash theme (plain white/gray) -->
-    <style name="Theme.TawajoodTask.Splash" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/white</item>
-        <!-- No animated icon, just plain background -->
-        <item name="postSplashScreenTheme">@style/Theme.TawajoodTask</item>
-    </style>
+    <style name="Theme.TawajoodTask" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
